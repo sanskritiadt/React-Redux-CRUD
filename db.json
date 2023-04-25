@@ -1,0 +1,89 @@
+{
+  "user": [
+    {
+      "id": 1,
+      "name": "Pizzahut",
+      "address": "Indore",
+      "contact": 9874120145,
+      "email": "pizzahut@test.com"
+    },
+    {
+      "id": 2,
+      "name": "Dominos",
+      "address": "Haryana",
+      "contact": 9874120352,
+      "email": "dominos@test.com"
+    },
+    {
+      "id": 3,
+      "name": "Lapinozz",
+      "address": "Chandigarh",
+      "contact": 9441012302,
+      "email": "Lapinozz@test.com"
+    },
+    {
+      "id": 4,
+      "name": "Macdonald's",
+      "address": "Kolkata",
+      "contact": 9874120320,
+      "email": "macdonald@test.com"
+    },
+    {
+      "id": 5,
+      "name": "PizzaDon",
+      "address": "Bhopal",
+      "contact": 7410256301,
+      "email": "pizzaDon@test.com"
+    },
+    {
+      "id": 6,
+      "name": "KFC",
+      "address": "Mumbai",
+      "contact": 9410231045,
+      "email": "KFC@test.com"
+    },
+    {
+      "id": 7,
+      "name": "ApnaSweets",
+      "address": "Indore",
+      "contact": 7401456520,
+      "email": "ApnaSweets@test.com"
+    },
+    {
+      "id": 8,
+      "name": "PizzaIsBae",
+      "address": "Pune",
+      "contact": 6214012350,
+      "email": "PizzaIsBae@test.com"
+    },
+    {
+      "name": "Newpizza",
+      "email": "newpizza@test.com",
+      "contact": "9874120321",
+      "address": "Goa",
+      "Address": "g",
+      "id": 9
+    },
+    {
+      "name": "Pizzeria",
+      "email": "pizzeria@test.com",
+      "contact": "9874152310",
+      "address": "Mumbai",
+      "id": 10
+    },
+    {
+      "name": "Pizzazone",
+      "email": "pizzazone@test.com",
+      "contact": "7412012310",
+      "address": "Gwalior",
+      "id": 11
+    },
+    {
+      "name": "Pizzilious Pizza",
+      "email": "PizziliousPizza@test.com",
+      "contact": "9874120232",
+      "address": "Dehradun",
+      "id": 12
+    }
+  ]
+}
